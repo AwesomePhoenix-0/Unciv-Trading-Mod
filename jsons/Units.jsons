@@ -1,4 +1,11 @@
 [
-  
-
+   {"name": "Trade Ship",
+		"unitType": "Civilian Water",
+		"movement": 3,
+		"cost": 100,
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Compass",
+		"upgradesTo": "", //Don't forget to do this
+		"uniques": ["No defensive terrain bonus", "Gain [250] [Gold]"]
+  }
 ]
