@@ -6,6 +6,6 @@
 	"requiredTech": "Sailing",
 	"obsoleteTech": "Compass",
 	"upgradesTo": "", //Don't forget to do this
-	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold]"]
+	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [in non-enemy foreign cities] cities>"]
   }
 ]
