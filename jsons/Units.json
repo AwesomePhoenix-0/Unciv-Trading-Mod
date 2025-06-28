@@ -23,8 +23,25 @@
 	"cost": 225,
 	"requiredTech": "Navigation",
 	"obsoleteTech": "Steam Power",
-	"upgradesTo": "Tank", //Don't forget to do this
+	"upgradesTo": "Collier", 
 	"uniques": ["No defensive terrain bonus", "Gain [750] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <by consuming this unit>"]
+  },
+{	"name": "Collier",
+	"unitType": "Civilian Water",
+	"movement": 5,
+	"cost": 250,
+	"requiredResource": "Coal",
+	"requiredTech": "Steam Power",
+	"obsoleteTech": "Combustion",
+	"upgradesTo": "Container ship",
+	"uniques": ["No defensive terrain bonus", "Gain [1000] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <by consuming this unit>"]
+  },
+{	"name": "Container ship",
+	"unitType": "Civilian Water",
+	"movement": 6,
+	"cost": 260,
+	"requiredTech": "Combustion",
+	"uniques": ["No defensive terrain bonus", "Gain [1250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <by consuming this unit>"]
   },
 
 ]
