@@ -6,6 +6,6 @@
 	"requiredTech": "Sailing",
 	"obsoleteTech": "Compass",
 	"upgradesTo": "Tank", //Don't forget to do this
-	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement>"]
+	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <[This Unit] is destroyed>"]
   }
 ]
