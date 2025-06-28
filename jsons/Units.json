@@ -14,7 +14,17 @@
 	"cost": 175,
 	"requiredTech": "Compass",
 	"obsoleteTech": "Navigation",
-	"upgradesTo": "Tank", //Don't forget to do this
+	"upgradesTo": "Fluyt",
 	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "No defensive terrain bonus", "Gain [500] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <by consuming this unit>"]
-  }
+  },
+{	"name": "Fluyt",
+	"unitType": "Civilian Water",
+	"movement": 5,
+	"cost": 225,
+	"requiredTech": "Navigation",
+	"obsoleteTech": "Steam Power",
+	"upgradesTo": "Tank", //Don't forget to do this
+	"uniques": ["No defensive terrain bonus", "Gain [750] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <by consuming this unit>"]
+  },
+
 ]
