@@ -8,4 +8,5 @@ Credit to :
 Yairm, that gave us this amazing game
 
 The entire Unciv community
-Especially Ace Hank
+
+Especially Ace Hank, Kurwizimi, 
