@@ -1,11 +1,20 @@
 [
-   {	"name": "Trade Ship",
+   {	"name": "Trade Boat",
 	"unitType": "Civilian Water",
 	"movement": 3,
 	"cost": 100,
 	"requiredTech": "Sailing",
 	"obsoleteTech": "Compass",
-	"upgradesTo": "Tank", //Don't forget to do this
+	"upgradesTo": "Trade Ship",
 	"uniques": ["Cannot enter ocean tiles", "No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <by consuming this unit>"]
+  },
+{	"name": "Trade Ship",
+	"unitType": "Civilian Water",
+	"movement": 4,
+	"cost": 175,
+	"requiredTech": "Compass",
+	"obsoleteTech": "Navigation",
+	"upgradesTo": "Tank", //Don't forget to do this
+	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "No defensive terrain bonus", "Gain [500] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <by consuming this unit>"]
   }
 ]
