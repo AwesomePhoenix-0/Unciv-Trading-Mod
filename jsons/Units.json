@@ -13,7 +13,7 @@
 	"movement": 3,
 	"requiredTech": "Sailing",
 	"obsoleteTech": "Compass",
-	"upgradesTo": "tank",
+	"upgradesTo": "Tank",
 	"uniques": ["Unbuildable", "Cannot be purchased", "Cannot enter ocean tiles", "No defensive terrain bonus", "Free [Trade Boat] appears <in [your] tiles>, <by consuming this unit>"]
   },
 
