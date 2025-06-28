@@ -6,17 +6,8 @@
 	"requiredTech": "Sailing",
 	"obsoleteTech": "Compass",
 	"upgradesTo": "Trade Ship",
-	"uniques": ["Cannot enter ocean tiles", "No defensive terrain bonus", "Gain [250] [Gold], Free [Empty Trade Boat] appears <in [Friendly Land] tiles> <in [non-[your]] tiles> <for [0] movement> <by consuming this unit>"]
+	"uniques": ["Cannot enter ocean tiles", "No defensive terrain bonus", "Gain [250] [Gold] <once> <in [Friendly Land] tiles> <in [non-[your]] tiles> <for all movement>", "Free [Trade Boat] appears <by consuming this unit> <in [your] tiles>"]
   }, 
-{	"name": "Empty Trade Boat",
-	"unitType": "Civilian Water",
-	"movement": 3,
-	"requiredTech": "Sailing",
-	"obsoleteTech": "Compass",
-	"upgradesTo": "Tank",
-	"uniques": ["Unbuildable", "Cannot be purchased", "Cannot enter ocean tiles", "No defensive terrain bonus", "Free [Trade Boat] appears <in [your] tiles>, <by consuming this unit>"]
-  },
-
 {	"name": "Trade Ship",
 	"unitType": "Civilian Water",
 	"movement": 4,
