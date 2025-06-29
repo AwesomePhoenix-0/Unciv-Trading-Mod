@@ -57,7 +57,7 @@
 	"range": 5,
 	"cost": 300,
 	"requiredResource": "Oil",
-	"upgradesTo": "tank", //don't foget this
+	"upgradesTo": "Tank", //don't foget this
 	"obsoleteTech": "Radar",
 	"requiredTech": "Flight",
 	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [non-[City-State]] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
