@@ -3,4 +3,9 @@
         "name": "Trade Plane",
         "movementType": "Air"
     },
+     {
+        "name": "Static Units",
+        "movementType": "Land"
+        "uniques": ["Unbuildable", "Cannot be purchased", "Cannot attack", "No Sight", "Can carry [2] [Trade Plane] units", "Cannot move", "Never appears as a Barbarian unit", ]
+    },
 ]
