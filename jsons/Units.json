@@ -7,7 +7,7 @@
 	"requiredTech": "Sailing",
 	"obsoleteTech": "Compass",
 	"upgradesTo": "Trade Ship",
-	"uniques": ["Cannot enter ocean tiles", "No defensive terrain bonus", "Gain [50] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [non-[City-State]] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	"uniques": ["Cannot enter ocean tiles", "No defensive terrain bonus", "Gain [50] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [Major] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
   }, 
 {	"name": "Trade Ship",
 	"unitType": "Civilian Water",
@@ -16,7 +16,7 @@
 	"requiredTech": "Compass",
 	"obsoleteTech": "Navigation",
 	"upgradesTo": "Fluyt",
-	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "No defensive terrain bonus", "Gain [100] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [non-[City-State]] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "No defensive terrain bonus", "Gain [100] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [Major] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
   },
 {	"name": "Fluyt",
 	"unitType": "Civilian Water",
@@ -25,7 +25,7 @@
 	"requiredTech": "Navigation",
 	"obsoleteTech": "Steam Power",
 	"upgradesTo": "Collier", 
-	"uniques": ["No defensive terrain bonus", "Gain [150] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [non-[City-State]] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	"uniques": ["No defensive terrain bonus", "Gain [150] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [Major] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
   },
 {	"name": "Collier",
 	"unitType": "Civilian Water",
@@ -35,14 +35,14 @@
 	"requiredTech": "Steam Power",
 	"obsoleteTech": "Combustion",
 	"upgradesTo": "Container ship",
-	"uniques": ["No defensive terrain bonus", "Gain [200] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [non-[City-State]] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	"uniques": ["No defensive terrain bonus", "Gain [200] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [Major] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
   },
 {	"name": "Container ship",
 	"unitType": "Civilian Water",
 	"movement": 6,
 	"cost": 260,
 	"requiredTech": "Combustion",
-	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [non-[City-State]] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [Major] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
   },
 	//Land Aircrafts
 {	"name": "Land Aircraft",
@@ -60,6 +60,6 @@
 	"upgradesTo": "Tank", //don't foget this
 	"obsoleteTech": "Radar",
 	"requiredTech": "Flight",
-	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [non-[City-State]] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <in [Major] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
 	},
 ]
