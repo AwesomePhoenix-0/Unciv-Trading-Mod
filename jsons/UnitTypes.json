@@ -1,1 +1,6 @@
-
+[
+    {
+        "name": "Trade Plane",
+        "movementType": "Air"
+    },
+]
