@@ -44,5 +44,5 @@
 	"requiredTech": "Combustion",
 	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
   },
-
+	//Trade planes
 ]
