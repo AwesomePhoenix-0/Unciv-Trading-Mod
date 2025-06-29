@@ -1,4 +1,5 @@
 [
+	//Trade boats
    {	"name": "Trade Boat",
 	"unitType": "Civilian Water",
 	"movement": 3,
