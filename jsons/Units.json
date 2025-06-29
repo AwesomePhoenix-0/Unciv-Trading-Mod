@@ -7,7 +7,7 @@
 	"requiredTech": "Sailing",
 	"obsoleteTech": "Compass",
 	"upgradesTo": "Trade Ship",
-	"uniques": ["Cannot enter ocean tiles", "No defensive terrain bonus", "Gain [50] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	"uniques": ["Cannot enter ocean tiles", "No defensive terrain bonus", "Gain [50] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Capital] cities> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
   }, 
 {	"name": "Trade Ship",
 	"unitType": "Civilian Water",
