@@ -50,7 +50,7 @@
 	"movement": 0,
 	"requiredTech": "Flight",
 	"uniques": ["No defensive terrain bonus"]
-	},
+	}, //Trading Planes
 {	"name": "Trading Triplane",
 	"unitType": "Trade Plane",
 	"movement": 1,
