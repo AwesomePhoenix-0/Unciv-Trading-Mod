@@ -45,8 +45,8 @@
 	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
   },
 	//Land Aircrafts
-{	"name": "Land Aircraft",
-	"unitType": "Land Aircraft",
+{	"name": "Airport",
+	"unitType": "Airport",
 	"movement": 0,
 	"requiredTech": "Flight",
 	"uniques": ["No defensive terrain bonus", "Can carry [2] [Trade Plane] units"]
