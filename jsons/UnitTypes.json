@@ -6,6 +6,5 @@
      {
         "name": "Airport",
         "movementType": "Land"
-        "uniques": ["Unbuildable", "Cannot be purchased", "Cannot attack", "No Sight", "Cannot move", "Never appears as a Barbarian unit" ]
     },
 ]
