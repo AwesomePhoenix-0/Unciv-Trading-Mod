@@ -53,7 +53,7 @@
 	},
 	{
 	"name": "Test",
-	"unitType": "Aircraft Carrier",
+	"unitType": "Airport",
 	"movement": 5,
 	"strength": 40,
 	"cost": 375,
