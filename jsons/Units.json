@@ -49,7 +49,7 @@
 	"unitType": "Airport",
 	"movement": 0,
 	"requiredTech": "Flight",
-	"uniques": ["Cannot attack", "No defensive terrain bonus", "Can carry [2] [Aircraft] units"]
+	"uniques": ["Cannot attack", "No defensive terrain bonus", "Can carry [2] [Aircraft] units", "Unbuildable", "Cannot be purchased", "Cannot attack", "No Sight", "Cannot move", "Never appears as a Barbarian unit"]
 	}, //Trading Planes
 {	"name": "Trading Triplane",
 	"unitType": "Trade Plane",
