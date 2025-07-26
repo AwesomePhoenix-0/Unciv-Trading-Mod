@@ -58,7 +58,7 @@
 	"strength": 40,
 	"cost": 375,
 	"requiredTech": "Electronics",
-	"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units"]
+	"uniques": ["Cannot move", "Cannot attack", "Can carry [2] [Aircraft] units"]
 	},
 	//Trading Planes
 {	"name": "Trading Triplane",
