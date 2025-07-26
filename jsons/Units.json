@@ -49,7 +49,7 @@
 	"unitType": "Airport",
 	"movement": 0,
 	"requiredTech": "Flight",
-	"uniques": ["No defensive terrain bonus", "Can carry [2] [Aircraft] units"]
+	"uniques": ["Cannot attack", "No defensive terrain bonus", "Can carry [2] [Aircraft] units"]
 	}, //Trading Planes
 {	"name": "Trading Triplane",
 	"unitType": "Trade Plane",
