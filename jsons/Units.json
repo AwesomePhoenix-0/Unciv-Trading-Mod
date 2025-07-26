@@ -48,6 +48,7 @@
 {	"name": "Airport",
 	"unitType": "Airport",
 	"movement": 0,
+	"strength": 40,
 	"requiredTech": "Flight",
 	"uniques": ["Cannot attack", "No defensive terrain bonus", "Can carry [2] [Aircraft] units", "Unbuildable", "Cannot be purchased", "Cannot attack", "No Sight", "Cannot move", "Never appears as a Barbarian unit"]
 	},
