@@ -1,0 +1,16 @@
+ [
+   {
+        "name": "Merchant",
+        "friendBonusUniques": [
+            "[+6 Gold] <before the [Medieval era]>",
+            "[+12 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Gold] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+12 Gold] <before the [Medieval era]>",
+            "[+24 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+52 Gold] <starting from the [Industrial era]>"
+        ],
+        "color": [222, 222, 24]
+    }
+ ]
