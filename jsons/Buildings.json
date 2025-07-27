@@ -14,6 +14,7 @@
  {
 	"name": "The world",
 	"cost": 100000,
+	"hurryCostModifier": 0,
 	"quote": "'There is enough on Earth for everybody's need, but not enough for everybody's greed.' — Frank Buchman"
 	"uniques": ["Unbuildable"]
 }
