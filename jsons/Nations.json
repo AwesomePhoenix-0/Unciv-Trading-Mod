@@ -1,0 +1,62 @@
+[
+  {
+		"name": "Samarkand",
+		"adjective": ["Uzbek"],
+		"cityStateType": "Merchant",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Samarkand"]
+	},
+  {
+		"name": "Malacca",
+		"adjective": ["Malaccan"],
+		"cityStateType": "Merchant",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Malacca"]
+	},
+  {
+		"name": "Baghdad",
+		"adjective": ["Iraqis"],
+		"cityStateType": "Merchant",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Baghdad"]
+	},
+  {
+		"name": "Dubai",
+		"adjective": ["Dubaians"],
+		"cityStateType": "Merchant",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Dubai"]
+	},
+  {
+		"name": "Hong Kong",
+		"adjective": ["Hongkonger"],
+		"cityStateType": "Merchant",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [52, 97, 242],
+		"cities": ["Hong Kong"]
+	}
+]
