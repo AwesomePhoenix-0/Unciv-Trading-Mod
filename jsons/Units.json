@@ -1,5 +1,5 @@
 [
-	{
+	{	//This is to make the worker able to build airports
 		"name": "Worker",
 		"unitType": "Civilian",
 		"movement": 2,
