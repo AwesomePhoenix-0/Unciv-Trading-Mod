@@ -1,0 +1,9 @@
+[
+  {
+		"name": "Customs house",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 10,
+		"uniques": ["Great Improvement", "[+10 Gold] <after discovering [Economics]>", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+	}
+]
