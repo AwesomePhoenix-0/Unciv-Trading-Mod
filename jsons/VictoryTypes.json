@@ -1,0 +1,9 @@
+[
+   {
+        "name": "Economic",
+        "victoryScreenHeader": "Get 100k Gold and buy The World to win",
+        "milestones": ["Build [The World]"],
+        "victoryString": "You have achieved victory through the awesome power of GOLD, you are indeeed, able to buy the entire world",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]
