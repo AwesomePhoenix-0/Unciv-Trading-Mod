@@ -1,0 +1,72 @@
+[
+  {
+        "name": "Commerce",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": ["[+25]% [Gold] [in capital]"],
+        "policies": [
+            {
+                "name": "Naval Tradition",
+                "uniques": [
+                    "[+1] Movement <for [Water] units>",
+                    "[+1] Sight <for [Water] units>",
+                    "Free [Great Merchant] appears",
+                    "Free [Fluyt] appears"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Trade Unions",
+                "uniques": [
+                    "[-33]% maintenance on road & railroads",
+                    "[+1 Gold] from every [Harbor]",
+                    "[+1 Gold] from every [Seaport]"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Merchant Navy",
+                "uniques": ["[+3 Production] [in all coastal cities]"],
+                "requires": ["Naval Tradition"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Mercantilism",
+                "uniques": [
+                    "[Gold] cost of purchasing items in cities [-25]%",
+                    "[+1 Science] from every [Mint]",
+                    "[+1 Science] from every [Market]",
+                    "[+1 Science] from every [Bank]",
+                    "[+1 Science] from every [Stock Exchange]"
+                ],
+                "requires": ["Trade Unions"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Capitalism",
+                "uniques": ["[+50]% [Gold] [in all cities]", "[+50]% [Production] [in all cities]", "[-1 Happiness] per [4] population [in all cities]"],
+                "requires": ["Mercantilism"],
+                "row": 3,
+                "column": 4
+            },
+            {
+                "name": "Commerce Complete",
+                "uniques": [
+                    "[+1 Gold] from every [Trading post]",
+                    "[+100]% Gold from Great Merchant trade missions",
+                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                ]
+            }
+        ]
+    }
+]
