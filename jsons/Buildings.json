@@ -1,0 +1,14 @@
+[
+  {
+		"name": "Wall street",
+		"culture": 1,
+    "gold": 10,
+		"percentStatBonus": {"gold": 30},
+		"greatPersonPoints": {"Great Merchant": 2},
+    "specialistSlots": {"Merchant": 1},
+		"isWonder": true,
+		"requiredTech": "Electricity",
+		"uniques": ["Gain a free [Stock Exchange] [in this city]"],
+		"quote": "'Greed, for lack of a better word, is good.'— Gordon Gekko"
+	}
+]
