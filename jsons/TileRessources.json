@@ -1,6 +1,6 @@
 [
   { "name": "Slave",
     "resourceType": "Strategic",
-    "uniques": ["Doesn't generate naturally"]
+    "uniques": ["Doesn't generate naturally", "Stockpiled"]
   }
 ]
