@@ -2,6 +2,6 @@
    {
         "name": "find slaves",
         "notification": "We have found survivors in the ruins, but we had to enslave them!",
-        "uniques": [ "Instantly provides [1] [Slave]"]
+        "uniques": ["Instantly provides [1] [Slave]"]
     }
 ]
